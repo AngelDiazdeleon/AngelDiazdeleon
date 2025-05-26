@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola mi nombre es Angel</h1>
 <h2 align="center">Acerca de mÍ👤 </h2>
-:mortar_board: Técnico Superior Universitario en Entornos Virtuales y Negocios Digitales, actualmente cursando la Ingeniería en Tecnologías de la Información.
+:mortar_board: Técnico Superior Universitario en Entornos Virtuales y Negocios Digitales, actualmente cursando la Ingeniería en Tecnologías de la Información.<br>
 Soy Técnico Superior en Entornos Virtuales y Negocios Digitales. Me apasiona todo lo relacionado con la tecnología, especialmente las bases de datos, el desarrollo de videojuegos y la creación de páginas web. Disfruto enfrentar nuevos retos que me ayuden a seguir aprendiendo, adquirir más conocimientos y crecer a través de proyectos personales.
 <br>
 <br>
