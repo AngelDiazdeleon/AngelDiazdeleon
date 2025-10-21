@@ -1,15 +1,23 @@
 <h1 align="center">👋 Hola mi nombre es Angel</h1>
 <h2 align="center">Acerca de mÍ👤 </h2>
-:mortar_board: Técnico Superior Universitario en Entornos Virtuales y Negocios Digitales, actualmente cursando la Ingeniería en Tecnologías de la Información.<br>
-Me apasiona todo lo relacionado con la tecnología, especialmente las bases de datos, el desarrollo de videojuegos y la creación de páginas web. Disfruto enfrentar nuevos retos que me ayuden a seguir aprendiendo, adquirir más conocimientos y crecer a través de proyectos personales.
+:mortar_board: Técnico Superior Universitario en Entornos Virtuales y Negocios Digitales, actualmente cursando la Ingeniería en Tecnologías de la Información.
+Apasionado por la programación y el desarrollo de software, con experiencia en desarrollo web, videojuegos, aplicaciones interactivas y soluciones digitales completas. Disfruto enfrentar retos que me permitan aprender, crear proyectos innovadores y crecer profesionalmente.
 <br>
 <br>
-💻 Desarrollador web | 🗃️ Bases de Datos | 🕹️ Desarrollador de Videojuegos | 🧊 Modelado y Animación 3D | Estrategias de Negocios y Marketing Digital.
+💻 Programación y desarrollo de software | 🗃️ Bases de Datos | 🕹️ Desarrollador de Videojuegos | 🧊 Modelado y Animación 3D | Estrategias de Negocios y Marketing Digital.
 <br>
 📚 Siempre aprendiendo y buscando nuevos retos .
+
 <h3 align="left">Contacto:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/angel-vazquez-diaz-de-leon-2068a6324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="50" /></a>
+  <a href="https://www.linkedin.com/in/angel-vazquez-diaz-de-leon-2068a6324/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="50" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/TU_ID_DEL_ARCHIVO" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" height="30" width="120" />
+  </a>
+</p>
+
 </p>
 <br>
 <h1 align="left">Lenguajes y Herramientas 💻</h1>
