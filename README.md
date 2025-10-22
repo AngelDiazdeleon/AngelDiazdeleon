@@ -13,6 +13,7 @@ Apasionado por la programación y el desarrollo de software, con experiencia en 
   <a href="https://www.linkedin.com/in/angel-vazquez-diaz-de-leon-2068a6324/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="50" />
   </a>
+  <h3 align="left">Certificaciones y proyectos:</h3>
   <a href="https://drive.google.com/drive/folders/1TB0rc66mDGBOGsWtZJbT6-Ca6zmHWYrr?usp=sharing" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" height="30" width="120" />
   </a>
